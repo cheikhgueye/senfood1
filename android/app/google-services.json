@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957843661002",
+    "project_id": "appgainde",
+    "storage_bucket": "appgainde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957843661002:android:8ff0563548b5be40035433",
+        "android_client_info": {
+          "package_name": "com.gainde.senfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957843661002-4kmhuh0sbgi8lf18q3reniji377ogbrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gainde.senfood",
+            "certificate_hash": "6391f23f8925e507b9c346df29136137a702235c"
+          }
+        },
+        {
+          "client_id": "957843661002-0p313vtf44h87s8botg5ie65bgraqfs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPP7VUdf_ShbSP4YmH--967HSxr7b8d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957843661002-0p313vtf44h87s8botg5ie65bgraqfs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
